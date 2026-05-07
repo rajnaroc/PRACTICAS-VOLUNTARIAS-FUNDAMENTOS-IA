@@ -124,3 +124,4 @@ Esto evita predicciones absurdas y errores de ejecución.
 
 `home.html` contiene el formulario web que ve el usuario.
 # PR-CTICAS-VOLUNTARIAS-FUNDAMENTOS-IA
+# PR-CTICAS-VOLUNTARIAS-FUNDAMENTOS-IA
